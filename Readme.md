@@ -27,6 +27,8 @@ Nest is a framework for building efficient, scalable <a href="https://nodejs.org
 
 <p>Under the hood, Nest makes use of <a href="https://expressjs.com/" target="_blank">Express</a>, but also, provides compatibility with a wide range of other libraries, like e.g. <a href="https://github.com/fastify/fastify" target="_blank">Fastify</a>, allowing for easy use of the myriad third-party plugins which are available.</p>
 
+<p>Nest is a brand and product line developed by Google that focuses on creating smart home devices and services. Nest's primary aim is to enhance the functionality, convenience, and energy efficiency of homes through the integration of advanced technology and thoughtful design. Nest products include a range of interconnected devices such as smart thermostats, security cameras, doorbells, smoke and carbon monoxide detectors, and more.<p>
+
 ## Philosophy
 
 <p>In recent years, thanks to Node.js, JavaScript has become the “lingua franca” of the web for both front and backend applications, giving rise to awesome projects like <a href="https://angular.io/" target="_blank">Angular</a>, <a href="https://github.com/facebook/react" target="_blank">React</a> and <a href="https://github.com/vuejs/vue" target="_blank">Vue</a> which improve developer productivity and enable the construction of fast, testable, extensible frontend applications. However, on the server-side, while there are a lot of superb libraries, helpers and tools for Node, none of them effectively solve the main problem - the architecture.</p>
